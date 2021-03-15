@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Property.Services/1.0.0": {
+        "dependencies": {
+          "Property.Core": "1.0.0"
+        },
+        "runtime": {
+          "Property.Services.dll": {}
+        }
+      },
+      "Property.Core/1.0.0": {
+        "runtime": {
+          "Property.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Property.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Property.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Property\Property.Services\bin\Debug\net5.0\Property.Services.deps.json
+D:\Property\Property.Services\bin\Debug\net5.0\Property.Services.dll
+D:\Property\Property.Services\bin\Debug\net5.0\ref\Property.Services.dll
+D:\Property\Property.Services\bin\Debug\net5.0\Property.Services.pdb
+D:\Property\Property.Services\bin\Debug\net5.0\Property.Core.dll
+D:\Property\Property.Services\bin\Debug\net5.0\Property.Core.pdb
+D:\Property\Property.Services\obj\Debug\net5.0\Property.Services.csprojAssemblyReference.cache
+D:\Property\Property.Services\obj\Debug\net5.0\Property.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Property\Property.Services\obj\Debug\net5.0\Property.Services.AssemblyInfoInputs.cache
+D:\Property\Property.Services\obj\Debug\net5.0\Property.Services.AssemblyInfo.cs
+D:\Property\Property.Services\obj\Debug\net5.0\Property.Services.csproj.CoreCompileInputs.cache
+D:\Property\Property.Services\obj\Debug\net5.0\Property.Services.csproj.CopyComplete
+D:\Property\Property.Services\obj\Debug\net5.0\Property.Services.dll
+D:\Property\Property.Services\obj\Debug\net5.0\ref\Property.Services.dll
+D:\Property\Property.Services\obj\Debug\net5.0\Property.Services.pdb

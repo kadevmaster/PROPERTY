@@ -1,0 +1,12 @@
+D:\Property\Property.Core\bin\Debug\net5.0\Property.Core.deps.json
+D:\Property\Property.Core\bin\Debug\net5.0\Property.Core.dll
+D:\Property\Property.Core\bin\Debug\net5.0\ref\Property.Core.dll
+D:\Property\Property.Core\bin\Debug\net5.0\Property.Core.pdb
+D:\Property\Property.Core\obj\Debug\net5.0\Property.Core.csprojAssemblyReference.cache
+D:\Property\Property.Core\obj\Debug\net5.0\Property.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Property\Property.Core\obj\Debug\net5.0\Property.Core.AssemblyInfoInputs.cache
+D:\Property\Property.Core\obj\Debug\net5.0\Property.Core.AssemblyInfo.cs
+D:\Property\Property.Core\obj\Debug\net5.0\Property.Core.csproj.CoreCompileInputs.cache
+D:\Property\Property.Core\obj\Debug\net5.0\Property.Core.dll
+D:\Property\Property.Core\obj\Debug\net5.0\ref\Property.Core.dll
+D:\Property\Property.Core\obj\Debug\net5.0\Property.Core.pdb
