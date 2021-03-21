@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "h4Hl8z5ybcCm0Q0c5q2rtMyGxxIqjoxIucOzxVu+fK7nNAKBxynGtO3TF6dPiMFMTqoNgp2AaNItCZy4aJ8kug==",
+  "dgSpecHash": "NJJwojMR5hm3kLhs+4a/YulpX2d1Xgt326WJDXUHbuifvKZAkwcwmFDPtRwZtR220pWUAWZe/5ptzBM8J5DAhA==",
   "success": true,
   "projectFilePath": "D:\\Property\\Property.Api\\Property.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -14,14 +14,17 @@ namespace Property.Services
             this._unitOfWork = unitOfWork;
         }
 
-        public Task<City> CreateCity(City newCity)
+        public async Task<City> CreateCity(City newCity)
         {
-            throw new System.NotImplementedException();
+            await _unitOfWork.Cities.AddAsync(newCity);
+            await _unitOfWork.CommitAsync();
+            return newCity;
         }
 
-        public Task DeleteCity(City city)
+        public async Task DeleteCity(City city)
         {
-            throw new System.NotImplementedException();
+             _unitOfWork.Cities.Remove(city);
+            await _unitOfWork.CommitAsync();
         }
 
         public async Task<IEnumerable<City>> GetAllCities()
@@ -36,9 +39,10 @@ namespace Property.Services
             .SingleOrDefaultAsync(m => m.Id == id);
         }
 
-        public Task UpdateCity(City cityToBeUpdated, City city)
+        public async Task UpdateCity(City cityToBeUpdated, City city)
         {
-            throw new System.NotImplementedException();
+            cityToBeUpdated.Name = city.Name;
+            await _unitOfWork.CommitAsync();
         }
     }
 }

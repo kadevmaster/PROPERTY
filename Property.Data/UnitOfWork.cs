@@ -14,7 +14,9 @@ namespace Property.Data
         {
             this._context = context;
         }
+
         public ICityRepository Cities => _cityRepository = _cityRepository ?? new CityRepository(_context);
+
         public async Task<int> CommitAsync()
         {
             return await _context.SaveChangesAsync();

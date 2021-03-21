@@ -62,3 +62,4 @@ D:\Property\Property.Api\bin\Debug\net5.0\Humanizer.dll
 D:\Property\Property.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Property\Property.Api\bin\Debug\net5.0\AutoMapper.dll
 D:\Property\Property.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Property\Property.Api\bin\Debug\net5.0\FluentValidation.dll

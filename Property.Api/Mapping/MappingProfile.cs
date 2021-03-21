@@ -10,6 +10,7 @@ namespace Property.Api.Mapping
         {
             // Domain to Resource
             CreateMap<City, CityResource>().ReverseMap();
+            CreateMap<SaveCityResource, City>();
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Property.Api",
+    "\\Property.Api\\Controllers",
+    "\\Property.Core",
+    "\\Property.Data",
+    "\\Property.Services"
+  ],
+  "SelectedNode": "\\Property.Api\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
